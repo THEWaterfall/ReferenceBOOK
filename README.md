@@ -19,5 +19,5 @@ The list of interaction with program *(The main window is automatically updated 
 6. Enter ID in search text field and click **Search** to search person by ID.
 
 *In addition*, you can 
-1. Double click the person to see full infomartion about him.
+1. Double click the person to see full information about him in another window.
 2. Right click the person to open context menu with **Show**, **Edit** and **Delete** menu items.
