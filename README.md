@@ -17,6 +17,7 @@ The list of interaction with program:
 4. Click **Edit** to open a new window where you can edit every info about the person except his ID.
 5. Click **View** to see the full information about the person.
 6. Enter ID in search text field and click **Search** to search person by ID.
+*(The main window is automatically updated after performing the above functions)*
 
 *In addition*, you can 
 1. Double click the person to see full infomartion about him.
