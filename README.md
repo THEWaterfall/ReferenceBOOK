@@ -8,4 +8,4 @@ During the creation I was using the following things:
 * MYSQL Database
 * MVC Pattern
 * DAO Pattern
-<img src="https://github.com/THEWaterfall/ReferenceBOOK/raw/master/mainScreen.png" alt="main menu" width="500" height ="750">
+<img src="https://github.com/THEWaterfall/ReferenceBOOK/raw/master/mainScreen.png" alt="main menu" width="500" height ="650">
