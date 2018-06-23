@@ -19,4 +19,4 @@ During the creation I was using the following things:
 
 *In addition*, you can 
 1. Double click the person to see full infomartion about him.
-2. Right click to open context menu with **Show**, **Edit** and **Delete** menu items.
+2. Right click the person to open context menu with **Show**, **Edit** and **Delete** menu items.
