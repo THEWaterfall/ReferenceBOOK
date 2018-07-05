@@ -1,5 +1,6 @@
 # Reference book for employees
 It was created in order to practice. 
+The newer version with <b>HIBERNATE</b> instead of JDBC is [right here](https://github.com/THEWaterfall/ReferenceBOOK.Version-2.0). 
 
 During the creation I was using the following things: 
 * Java 
